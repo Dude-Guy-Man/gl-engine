@@ -15,7 +15,7 @@ int main()
     {
         return -1;
     }
-    game.Run();
+    game.Run(); //lol good luck
 
     glfwTerminate();
     return 0;
